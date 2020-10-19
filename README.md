@@ -1,4 +1,2 @@
-# volcano-visualisation
-
-Plots location of volcanoes active in the Holocene, based on the Smithsonian's Global Volcanism Project database [https://volcano.si.edu/list_volcano_holocene.cfm].
-Symbols represent volcano type.
+# volcano-visualization
+This repo contains code to visualize active volcanoes across the world using CesiumJS
